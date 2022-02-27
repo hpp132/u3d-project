@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{E21ED2B1-371B-B238-53C4-2E0D3DF78107}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/XLua/Src/LuaEnv.cs">
+    <Files>
+      <File FileName="Assets/XLua/Src/LuaEnv.cs" Line="66" Column="34" />
+      <File FileName="Assets/playerMove.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="u3d-project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="XLua" expanded="True">
+                <Node name="Src" expanded="True">
+                  <Node name="LuaEnv.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="84d58e7a-222d-48db-8532-4af7a5124fe9" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
